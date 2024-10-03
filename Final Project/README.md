@@ -1,7 +1,6 @@
 # Pseudoalignment Implementation Report
 
 **Author**: Krish Patel  
-**Email**: knpatel@ucla.edu  
 **Student ID**: 605-796-227
 
 ## Introduction
