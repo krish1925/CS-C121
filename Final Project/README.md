@@ -1,7 +1,6 @@
 # Pseudoalignment Implementation Report
 
 **Author**: Krish Patel  
-**Student ID**: 605-796-227
 
 ## Introduction
 Pseudoalignment is a computational technique used in the analysis of RNA-seq data to map reads to transcripts without requiring full alignment. The goal of this project was to implement a pseudoalignment algorithm that reads RNA-seq data in FASTA format, constructs equivalence classes of transcripts based on k-mers, and summarizes the results. This README outlines the approach, design choices, results, and analysis of the pseudoalignment implementation.
